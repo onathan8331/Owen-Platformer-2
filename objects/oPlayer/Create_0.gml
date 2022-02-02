@@ -13,7 +13,7 @@ xDirection = 0;
 
 xVector = xSpeed * xDirection;
 
-grv = .45;
-jumpForce = -14;
+grv = .50;
+jumpForce = -18;
 yVector = 0;
 
